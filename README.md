@@ -3,6 +3,7 @@
 
 #### Bio: <br>
  👨‍🎓  Student, 19 y.o, Minsk <br>
+ 🏫 Currently studying in BSTU
 
 ---
 ### 📚 Learning
